@@ -51,9 +51,9 @@ Je suis une artiste en reconversion,
 </p><br/><br/>
 
 ---
-## Langages utilisés dans mes repositories
+## Top langages utilisés
 <div>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaprojets&layout=compact&hide_title=1&card_width=300" alt="Languages utilisés dans mes repositories" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaprojets&layout=compact&hide_title=1&card_width=300" alt="Top languages utilisés dans mes repositories" />
 </div>
 
 ---
