@@ -13,9 +13,9 @@ Je suis une artiste en reconversion,
 
 ---
 
-## Je suis en formation chez STUDI, j'y apprends à :
+## Je suis en formation chez STUDI
 <details>
- <summary><strong>Graduate Développeur Front-End </strong></summary>
+ <summary><strong>J'y apprends à : </strong></summary>
    - Analyser les besoins à partir d’un cahier des charges<br/>
    - Découper et intégrer une maquette graphique en HTML5<br/> 
    - Maîtriser les bases de l’UX Design<br/> 
