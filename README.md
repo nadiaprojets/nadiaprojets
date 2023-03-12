@@ -33,8 +33,20 @@ Je vous partage ici quelques projets.
    - Concevoir un site avec le CMS Wordpress et le personnaliser
 </details>
 
+## Support
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
+ 
+  <a href="https://www.instagram.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/instagram_icon.png?raw=true"></a>&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/facebook_icon.png?raw=true"></a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
+
+  <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
+</p>
 
 ![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
