@@ -5,7 +5,7 @@
 ## A propos de moi :
 Je suis une artiste en reconversion
 - Dans le web design 
-- Dans le développement front-end<br/> 
+- Dans le développement front-end<br/><br/>  
 Je vous partage ici quelques projets.
 
 ## Ce que j'apprends chez STUDI :
