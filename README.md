@@ -33,7 +33,7 @@ Je suis une artiste en reconversion,
    - Concevoir un site avec le CMS Wordpress et le personnaliser
 </details>
 
-## Support
+## Support me :
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
