@@ -39,13 +39,15 @@ Je suis une artiste en reconversion,
    - Concevoir un site avec le CMS Wordpress et le personnaliser
 </details>
 <!--END_SECTION: Formation-->
+
 ---
 
+<!--START_SECTION: Top langages-->
 ## Top langages utilisés
 <div>
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaprojets&layout=compact&hide_title=1&card_width=300" alt="Top languages utilisés dans mes repositories" />
 </div>
-
+<!--END_SECTION: Top langages-->
 ---
 
 ## GitHub Stats
@@ -74,7 +76,7 @@ Je suis une artiste en reconversion,
 <!--END_SECTION: Passions-->
 
 ---
-
+<!--START_SECTION: Support me-->
 ## Support me
 <p align='center'>
   <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
@@ -83,3 +85,4 @@ Je suis une artiste en reconversion,
   <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
 </p>
+<!--END_SECTION: Support me-->
