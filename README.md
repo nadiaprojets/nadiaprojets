@@ -15,7 +15,7 @@ Je suis une artiste en reconversion,
 ---
 
 <!--START_SECTION: Formation-->
-## Je suis en formation chez STUDI
+## En formation chez STUDI
 <details>
  <summary><strong>J'y apprends à : </strong></summary>
    - Analyser les besoins à partir d’un cahier des charges<br/>
