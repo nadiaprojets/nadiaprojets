@@ -40,7 +40,7 @@ Passionnée depuis longtemps par la création de sites, mais également par les 
   <a href="https://www.facebook.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/facebook_icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
-</p>
+</p><br/>
 
 
 ![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
