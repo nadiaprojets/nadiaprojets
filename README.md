@@ -51,6 +51,12 @@ Je suis une artiste en reconversion,
 </p><br/><br/>
 
 ---
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nadiaprojets.vercel.app/api?username=nadiaprojets&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-nadiaprojets.vercel.app/api?username=nadiaprojets&show_icons=true">
+</picture>
+
+---
 
 ## GitHub Stats
 ![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
