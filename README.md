@@ -5,7 +5,8 @@
 ## A propos de moi :
 Je suis une artiste en reconversion
 - Dans le web design 
-- Dans le développement front-end<br/><br/>  
+- Dans le développement front-end<br/>
+
 Je vous partage ici quelques projets.
 
 ## Ce que j'apprends chez STUDI :
@@ -32,3 +33,8 @@ Je vous partage ici quelques projets.
    - Concevoir un site avec le CMS Wordpress et le personnaliser
 </details>
 
+
+![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
