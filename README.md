@@ -5,7 +5,7 @@
 # Welcome to my GitHub ! 
 ---
 
-## A propos de moi :
+## About me
 Passionnée depuis longtemps par la création de sites, mais également par les domaines des arts, du design et du marketing via ma formation de création d’activité et de la musique, je suis de nature calme, réfléchie et autonome. Mes multiples expériences professionnelles et personnelles qui ont mis en évidence mon multipotentialisme m’ont permis d’acquérir les compétences essentielles pour les métiers de webdesigner et développement web front-end.<br/>  
 Je suis une artiste en reconversion,
 - dans le web design 
@@ -13,7 +13,7 @@ Je suis une artiste en reconversion,
 
 ---
 
-## Ce que j'apprends chez STUDI :
+## Je suis en formation chez STUDI, j'y apprends à :
 <details>
  <summary><strong>Graduate Développeur Front-End </strong></summary>
    - Analyser les besoins à partir d’un cahier des charges<br/>
