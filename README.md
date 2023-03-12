@@ -63,7 +63,7 @@ Je suis une artiste en reconversion,
  <summary><strong>J'adore : </strong></summary>
    - Les nouvelles technologies<br/>
    - Le web design<br/>
-   - Dessiner des portraits au crayons graphite <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
+   - Dessiner des portraits au crayon graphite <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
    - Peindre <a href="https://nadiaprojets.github.io/peintures/">voir</a><br/>
    - L'art IA <a href="https://www.instagram.com/entreprenartistes/">voir</a><br/>
    - Jouer du piano <a href="https://youtu.be/ReyOn7U54ls">Écouter</a><br/> 
