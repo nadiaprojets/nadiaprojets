@@ -41,16 +41,6 @@ Je suis une artiste en reconversion,
 <!--END_SECTION: Formation-->
 ---
 
-## Support me
-<p align='center'>
-  <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/instagram_icon.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/facebook_icon.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
-</p><br/><br/>
-
----
 ## Top langages utilisés
 <div>
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaprojets&layout=compact&hide_title=1&card_width=300" alt="Top languages utilisés dans mes repositories" />
@@ -63,9 +53,14 @@ Je suis une artiste en reconversion,
 
 ---
 
-## Contact me
-
-:e-mail: <a href="mailto:nadiaess.design@gmail.com">Envoyer un e-mail</a>
+## Support me
+<p align='center'>
+  <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/instagram_icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/facebook_icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
+</p><br/><br/>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
