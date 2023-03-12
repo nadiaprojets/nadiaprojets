@@ -54,6 +54,25 @@ Je suis une artiste en reconversion,
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
 
 ---
+<!--START_SECTION: Passions-->
+#### 🧡 &nbsp;&nbsp;Mes passions
+<details>
+ <summary><strong>J'adore : </strong></summary>
+   * Les nouvelles technologies
+   * Le web design 
+   * Dessiner des portraits au crayons graphite ([voir](https://www.instagram.com/essama.nadia/))
+   * Peindre ([voir](https://nadiaprojets.github.io/peintures/))
+   * L'art IA ([voir](https://www.instagram.com/entreprenartistes/))
+   * Jouer du piano ([Écouter](https://youtu.be/ReyOn7U54ls)) 
+   * Chanter
+   * Composer de la musique ([Écouter](https://youtube.com/playlist?list=PLtOmNI_l2q0rVCEWl1Ew20xji3vx_bK_r))
+   * Créer des animations ([voir](https://youtube.com/playlist?list=PLtOmNI_l2q0oyP2Y09-rBanE3Aks-qaxy))
+   * Ecrire des citations ([voir](https://www.instagram.com/nadia.essama/))
+   * La nature
+   * L'astronomie
+</details>
+<!--END_SECTION: Passions-->
+---
 
 ## Support me
 <p align='center'>
