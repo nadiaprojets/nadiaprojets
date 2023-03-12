@@ -1,6 +1,7 @@
 # ![nadiaprojets](https://github.com/nadiaprojets/nadiaprojets/blob/main/nadia-baner.jpg)
 
-# Bienvenue ! 
+# Welcome to my GitHub ! 
+---
 
 ## A propos de moi :
 Passionnée depuis longtemps par la création de sites, mais également par les domaines des arts, du design et du marketing via ma formation de création d’activité et de la musique, je suis de nature calme, réfléchie et autonome. Mes multiples expériences professionnelles et personnelles qui ont mis en évidence mon multipotentialisme m’ont permis d’acquérir les compétences essentielles pour les métiers de webdesigner et développement web front-end.<br/>  
@@ -8,6 +9,7 @@ Je suis une artiste en reconversion,
 - dans le web design 
 - dans le développement front-end
 
+---
 
 ## Ce que j'apprends chez STUDI :
 <details>
@@ -33,6 +35,8 @@ Je suis une artiste en reconversion,
    - Concevoir un site avec le CMS Wordpress et le personnaliser
 </details>
 
+---
+
 ## Support
 
 <p align='center'>
@@ -43,7 +47,11 @@ Je suis une artiste en reconversion,
   <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
 </p><br/><br/>
 
+---
+
 ## GitHub Stats
 ![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
+
+---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
