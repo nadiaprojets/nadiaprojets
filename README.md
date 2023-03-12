@@ -58,18 +58,18 @@ Je suis une artiste en reconversion,
 #### 🧡 &nbsp;&nbsp;Mes passions
 <details>
  <summary><strong>J'adore : </strong></summary>
-   Les nouvelles technologies<br/>
-   Le web design<br/>
-   Dessiner des portraits au crayons graphite ![voir](https://www.instagram.com/essama.nadia/)<br/>
-   Peindre ([voir](https://nadiaprojets.github.io/peintures/))<br/>
-   L'art IA ([voir](https://www.instagram.com/entreprenartistes/))<br/>
-   Jouer du piano ([Écouter](https://youtu.be/ReyOn7U54ls))<br/> 
-   Chanter<br/>
-   Composer de la musique ([Écouter](https://youtube.com/playlist?list=PLtOmNI_l2q0rVCEWl1Ew20xji3vx_bK_r))<br/>
-   Créer des animations ([voir](https://youtube.com/playlist?list=PLtOmNI_l2q0oyP2Y09-rBanE3Aks-qaxy))<br/>
-   Ecrire des citations ([voir](https://www.instagram.com/nadia.essama/))<br/>
-   La nature<br/>
-   L'astronomie
+   - Les nouvelles technologies<br/>
+   - Le web design<br/>
+   - Dessiner des portraits au crayons graphite <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
+   - Peindre <a href="https://nadiaprojets.github.io/peintures/">voir</a><br/>
+   - L'art IA <a href="https://www.instagram.com/entreprenartistes/">voir</a><br/>
+   - Jouer du piano <a href="https://youtu.be/ReyOn7U54ls">Écouter</a><br/> 
+   - Chanter<br/>
+   - Composer de la musique <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0rVCEWl1Ew20xji3vx_bK_r">Écouter</a><br/>
+   - Créer des animations <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0oyP2Y09-rBanE3Aks-qaxy">voir</a><br/>
+   - Ecrire des citations <a href="https://www.instagram.com/nadia.essama/">voir</a><br/>
+   - La nature<br/>
+   - L'astronomie
 </details>
 <!--END_SECTION: Passions-->
 ---
