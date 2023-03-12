@@ -1,6 +1,6 @@
 # ![nadiaprojets](https://github.com/nadiaprojets/nadiaprojets/blob/main/nadia-baner.jpg)
 
-### Bienvenue ! 👋
+#### Bienvenue ! 
 
 ## A propos de moi :
 Passionnée depuis longtemps par la création de sites, mais également par les domaines des arts, du design et du marketing via ma formation de création d’activité et de la musique, je suis de nature calme, réfléchie et autonome. Mes multiples expériences professionnelles et personnelles qui ont mis en évidence mon multipotentialisme m’ont permis d’acquérir les compétences essentielles pour les métiers de webdesigner et développement web front-end. Je suis une artiste en reconversion
