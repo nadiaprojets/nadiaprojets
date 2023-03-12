@@ -55,7 +55,7 @@ Je suis une artiste en reconversion,
 
 ---
 <!--START_SECTION: Passions-->
-#### 🧡 &nbsp;&nbsp;Mes passions
+## 🧡 &nbsp;&nbsp;Mes passions
 <details>
  <summary><strong>J'adore : </strong></summary>
    - Les nouvelles technologies<br/>
@@ -72,6 +72,7 @@ Je suis une artiste en reconversion,
    - L'astronomie
 </details>
 <!--END_SECTION: Passions-->
+
 ---
 
 ## Support me
