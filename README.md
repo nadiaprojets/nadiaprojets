@@ -39,7 +39,7 @@ Je suis une artiste en reconversion,
 
 ---
 
-## Support
+## Support me
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
