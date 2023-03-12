@@ -57,5 +57,10 @@ Je suis une artiste en reconversion,
 
 ---
 
+## Contact me
+
+:e-mail: <a href="mailto:nadiaess.design@gmail.com">Envoyer un e-mail</a>
+
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
 
