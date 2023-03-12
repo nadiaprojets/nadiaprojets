@@ -2,13 +2,13 @@
 
 ### Bienvenue ! 👋
 
-## A propos de moi
-Je suis une artiste en reconversion :
+## A propos de moi :
+Je suis une artiste en reconversion
 - Dans le web design 
 - Dans le développement front-end<br/> 
 Je vous partage ici quelques projets.
 
-## Ce que j'apprends chez STUDI
+## Ce que j'apprends chez STUDI :
 <details>
  <summary><strong>Graduate Développeur Front-End :</strong></summary>
    - Analyser les besoins à partir d’un cahier des charges<br/>
