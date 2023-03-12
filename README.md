@@ -40,7 +40,7 @@ Je suis une artiste en reconversion,
 </details>
 <!--END_SECTION: Formation-->
 ---
-<!--START_SECTION: Support me-->
+
 ## Support me
 <p align='center'>
   <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
@@ -49,13 +49,13 @@ Je suis une artiste en reconversion,
   <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
 </p><br/><br/>
-<!--END_SECTION: Support me-->
+
 ---
-<!--START_SECTION: GitHub stats-->
+
 ## GitHub Stats
 ![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
-<!--END_SECTION: GitHub stats-->
+
 ---
-<!--START_SECTION: Badge visitors-->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
-<!--END_SECTION: Badge visitors-->
+
