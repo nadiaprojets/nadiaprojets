@@ -37,13 +37,9 @@ Je vous partage ici quelques projets.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/nadiaessama/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
- 
   <a href="https://www.instagram.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/instagram_icon.png?raw=true"></a>&nbsp;&nbsp;
-
   <a href="https://www.facebook.com/nadiaessdesign/"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/facebook_icon.png?raw=true"></a>&nbsp;&nbsp;
-
   <a href="https://www.youtube.com/@nadiaEM"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/Youtube_icon.png?raw=true"></a>&nbsp;&nbsp;
-
   <a href="mailto:nadiaess.design@gmail.com"><img height="32" src="https://github.com/nadiaprojets/nadiaprojets/blob/main/gmail_icon.png?raw=true"></a>
 </p>
 
