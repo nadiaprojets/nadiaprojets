@@ -63,14 +63,14 @@ Je suis une artiste en reconversion,
  <summary><strong>J'adore : </strong></summary>
    - Les nouvelles technologies<br/>
    - Le web design<br/>
-   - Dessiner des portraits au crayon graphite : <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
+   - Dessiner : <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
    - Peindre : <a href="https://nadiaprojets.github.io/peintures/">voir</a><br/>
    - L'art IA : <a href="https://www.instagram.com/entreprenartistes/">voir</a><br/>
    - Jouer du piano : <a href="https://youtu.be/ReyOn7U54ls">Écouter</a><br/> 
-   - Chanter<br/>
    - Composer de la musique : <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0rVCEWl1Ew20xji3vx_bK_r">Écouter</a><br/>
+   - Chanter<br/>
    - Créer des animations : <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0oyP2Y09-rBanE3Aks-qaxy">voir</a><br/>
-   - Ecrire des citations : <a href="https://www.instagram.com/nadia.essama/">voir</a><br/>
+   - Ecrire des citations : <a href="[https://www.instagram.com/nadia.essama/">voir</a><br/>
    - La nature<br/>
    - L'astronomie
 </details>
