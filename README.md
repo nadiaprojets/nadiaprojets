@@ -55,11 +55,9 @@ Je suis une artiste en reconversion,
 ## 🧡 &nbsp;&nbsp;Mes passions
 <details>
  <summary><strong>J'adore : </strong></summary>
-   - Les nouvelles technologies<br/>
-   - Le web design<br/>
- 
    - Dessiner : <a href="https://www.instagram.com/nadia.essama.mbida/">voir</a><br/>
    - Peindre : <a href="https://nadiaprojets.github.io/peintures/">voir</a><br/>
+   - Créer des designs
    - L'art sous toutes ses formes
    - Les nouvelles technologies
    - L'art IA : <a href="https://www.instagram.com/entreprenartistes/">voir</a><br/>
