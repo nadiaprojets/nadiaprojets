@@ -50,6 +50,7 @@ Je suis une artiste en reconversion,
 </div>
 <!--END_SECTION: Top langages-->
 ---
+
 <!--START_SECTION: Passions-->
 ## 🧡 &nbsp;&nbsp;Mes passions
 <details>
