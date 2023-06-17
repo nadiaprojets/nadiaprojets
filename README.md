@@ -71,7 +71,7 @@ Je suis une artiste en reconversion,
    - La psychologie<br/>
    - L'astronomie<br/>
    - La physique quantique<br/>
-   - L'Égypte Antique
+   - L'Égypte Antique<br/>
    - La spiritualité africaine<br/>
 </details>
 <!--END_SECTION: Passions-->
