@@ -49,14 +49,6 @@ Je suis une artiste en reconversion,
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiaprojets&layout=compact&hide_title=1&card_width=300" alt="Top languages utilisés dans mes repositories" />
 </div>
 <!--END_SECTION: Top langages-->
-
----
-
-## GitHub Stats
-![Statistiques Nadia.EM sur github](https://github-readme-stats.vercel.app/api?username=nadiaprojets&show_icons=true&hide=["prs","issues","contribs"])
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nadiaprojets&left_color=green&right_color=red)
-
 ---
 <!--START_SECTION: Passions-->
 ## 🧡 &nbsp;&nbsp;Mes passions
