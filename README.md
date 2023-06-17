@@ -65,7 +65,7 @@ Je suis une artiste en reconversion,
    - Les nouvelles technologies<br/>
    - Le web design<br/>
  
-   - Dessiner : <a href="https://www.instagram.com/essama.nadia/">voir</a><br/>
+   - Dessiner : <a href="https://www.instagram.com/nadia.essama.mbida/">voir</a><br/>
    - Peindre : <a href="https://nadiaprojets.github.io/peintures/">voir</a><br/>
    - L'art sous toutes ses formes
    - Les nouvelles technologies
@@ -74,7 +74,7 @@ Je suis une artiste en reconversion,
    - Composer de la musique : <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0rVCEWl1Ew20xji3vx_bK_r">Écouter</a><br/>
    - Chanter<br/>
    - Créer des animations : <a href="https://youtube.com/playlist?list=PLtOmNI_l2q0oyP2Y09-rBanE3Aks-qaxy">voir</a><br/>
-   - Ecrire : <a href="[https://www.instagram.com/nadia.essama/">voir</a><br/>
+   - Ecrire : <a href="https://www.instagram.com/nadiaessamambida/">voir</a><br/>
    - La nature<br/>
    - La philosophie 
    - La psychologie
